@@ -1,0 +1,2 @@
+execute as @a[distance=..50] at @s run summon dragon_fireball ~ ~10 ~ {Tags:["infernumDatapack"],Motion:[0d,-1d],Team:infernum}
+execute as @a[distance=..50] at @s run playsound minecraft:entity.ender_dragon.shoot master @s ~ ~5 ~ 30

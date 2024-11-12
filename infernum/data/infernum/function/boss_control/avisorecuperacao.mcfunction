@@ -1,0 +1,2 @@
+title @a actionbar [{"text":"WARNING! ","color":"dark_red"},{"text":"Infernum ","color":"dark_purple","bold":true,"italic":false},{"text":"is healing himself!","bold":false,"color":"white"}]
+execute as @a at @s run playsound minecraft:block.note_block.didgeridoo master @a ~ ~ ~ 10
