@@ -2,13 +2,13 @@
 
 This datapack introduces an exciting new battle to Minecraft 1.21, where players face the fearsome Infernum dragon in an epic, collaborative challenge!
 
-![Infernum](https://exemplo.com/image.png)
+![Infernum](https://github.com/Hotinhoo/infernum-datapack/blob/main/images/infernum.png)
 
 ## How to Start the Battle
 
 To summon the Infernum dragon, any player can create the **Infernum Horn**. Upon using it, a waiting area will be created, where players can gather to prepare for the battle.
 
-![Horn Crafting](https://exemplo.com/image.png)
+![Horn Crafting](https://github.com/Hotinhoo/infernum-datapack/blob/main/images/crafting.png)
 
 ## Requirements and Settings
 
@@ -26,7 +26,7 @@ Defeating the Infernum dragon grants random rewards. To disable or enable these 
 /data modify storage infernum:config rewards set value <true|false>
 ```
 
-![Rewards](https://exemplo.com/image.png)
+![Rewards](https://github.com/Hotinhoo/infernum-datapack/blob/main/images/rewards.png)
 
 ---
 
